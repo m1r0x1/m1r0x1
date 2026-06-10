@@ -1,6 +1,6 @@
 # Mikhail Alekhanov
 
-DevOps Engineer focused on building reliable, automated infrastructure on AWS and Kubernetes. I design production-grade clusters, modular Terraform codebases and CI/CD pipelines that teams can actually maintain. Strong believer in GitOps, infrastructure as code and observability-driven operations.
+DevOps Engineer.
 
 Stack
 
