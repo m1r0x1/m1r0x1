@@ -32,4 +32,3 @@ GitHub stats
 Contact
 
 - Email: misha.alechanow@gmail.com
-- Open to: DevOps / SRE / Platform Engineering roles
